@@ -1,2 +1,2 @@
 # fire_detect
-Raspberry Pi, OpenCV
+Raspberry Pi, OpenCV , arduino
